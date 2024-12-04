@@ -1,4 +1,14 @@
-## 车辆识别系统
+# 车辆识别系统
+
+原作者github链接[611code/Chinese_license_plate_detection_recognition: yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌](https://github.com/611code/Chinese_license_plate_detection_recognition)
+
+这里fork是因为感觉代码写的很好，但作为小白学习难度太大，此处记录如何看懂代码
+
+文件为
+
+My_Learn_detect.ipynb
+
+
 
 **目前支持车辆检测+车牌检测识别**
 
@@ -16,7 +26,7 @@ python Car_recognition.py --detect_model weights/detect.pt  --rec_model weights/
 
 ## **检测训练**
 
-1. **下载数据集：**  获取数据集+V：we0091234 （注明来意）**收费30 介意勿扰** 
+1. **下载数据集：**  获取数据集+V：we0091234 （注明来意）**收费30 介意勿扰**
    数据集格式为yolo格式：
 
    ```
@@ -66,5 +76,3 @@ python Car_recognition.py --detect_model weights/detect.pt  --rec_model weights/
 ## 联系
 
 **有问题可以提issues 或者加qq群：769809695（三群新开） 823419837(已满) 837982567（已满）  询问**
-
-
