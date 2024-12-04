@@ -6,9 +6,9 @@
 
 文件为
 
-My_Learn_detect.ipynb
+My_Learn_Detect_Code.ipynb
 
-
+My_Learn_Detect_Note.md
 
 **目前支持车辆检测+车牌检测识别**
 
