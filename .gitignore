@@ -30,3 +30,4 @@ mytest/
 !*.txt
 !*.md
 !*.ipynb
+!*.TTF
